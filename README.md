@@ -1,3 +1,3 @@
 # resumeProjects
 
-Build your resume easily
+A convinient tool for building your resume easily.
